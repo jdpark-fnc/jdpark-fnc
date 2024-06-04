@@ -1,4 +1,6 @@
-## Hi there 👋
+# jdpark-fnc ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdpark-fnc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jdpark-fnc/jdpark-fnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
